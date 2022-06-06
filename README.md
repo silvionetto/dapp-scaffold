@@ -62,6 +62,13 @@ Notifications (optional): Example of using a notification system
 
 A Solana Components Repo will be released in the near future to house a common components library.
 
+```
+- Get the max from the last 24h.
+- Get the min from the last 24h.
+- Get top 10 currencies.
+- Create investment.
+- Stop investment.
+```
 
 ### Structure
 
